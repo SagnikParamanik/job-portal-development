@@ -94,7 +94,7 @@ export default function Login() {
               <div className="space-y-1 text-xs text-gray-600">
                 <div>Admin: admin@jobportal.com</div>
                 <div>Recruiter: recruiter@techcorp.com</div>
-                <div>Candidate: john@email.com</div>
+                <div>Candidate: User@email.com</div>
                 <div className="text-gray-400 italic">(Password: any)</div>
               </div>
             </div>
