@@ -52,7 +52,7 @@ export function SignUp() {
               <Input
                 id="name"
                 type="text"
-                placeholder="John Doe"
+                placeholder="user name"
                 value={name}
                 onChange={(e) => setName(e.target.value)}
                 required

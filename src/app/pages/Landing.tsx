@@ -164,7 +164,7 @@ export default function Landing() {
               </div>
               <div className="text-center space-y-2">
                 <div className="font-semibold text-green-600">Candidate</div>
-                <div className="text-sm text-gray-600">john@email.com</div>
+                <div className="text-sm text-gray-600">User@email.com</div>
                 <div className="text-xs text-gray-400">Apply for jobs</div>
               </div>
             </div>
